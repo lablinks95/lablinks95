@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Malik
 
-<!--
-**lablinks95/lablinks95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital business builder based in Lahore, Pakistan, with 30 years in healthcare diagnostics and B2B supply. I now build local-SEO lead-generation sites and AI-assisted content for UK compliance niches.
 
-Here are some ideas to get you started:
+### What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Local SEO and lead-gen sites:** asbestos surveys, EICR and retrofit assessment in London.
+
+**Landing pages and demo sites:** see the eicr and Landing-Pages- repositories.
+
+**Short explainer videos** and content built with AI tools.
+
+**Digital products** and print-on-demand shops.
+
+### Tools
+
+WordPress, Elementor, Google Ads, GA4, Search Console, Make.com, Claude
+
+### Links
+
+Website: https://asbestoslondonsurvey.co.uk
+
+*Currently learning: Google Ads, GA4 and web analytics.*
